@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+.pyo
+venv/
+env/
+.env
+
+# C++ Binaries & Build Outputs
+*.exe
+*.out
+*.o
+token_engine
+build/
+dist/
+
+# IDEs & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
