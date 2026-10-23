@@ -35,7 +35,7 @@ To run the backend data-cleaning engine locally:
 pip install -r requirements.txt
 python app.py
 
-### To compile and run the high-speed C++ tokenization module:
+## To compile and run the high-speed C++ tokenization module:
 Bash:
 
 g++ -O3 token_engine.cpp -o token_engine
